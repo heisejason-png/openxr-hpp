@@ -109,5 +109,4 @@ pre-commit run --all-files
 [cmake-format]: https://cmake-format.readthedocs.io
 [pre-commit]: https://pre-commit.com/
 Created by Jason Heise
-https://paulwalkerfoundation.org
-https://www.x.com
+Owned by Jason Heise heisejason-png Giters
